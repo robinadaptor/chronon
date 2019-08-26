@@ -7,16 +7,18 @@ Chronon is a 100% pure POS system. And Chronon is operated by community.
 ***
 ## Specification  
   
-coin symbol : CHN  
-algorithm : Quark  
-5000 CHN required coins for masternode  
-blocktime : 60 sec  
-port : 15288, rpcport : 15289  
-genesis date : 28th May, 2018  
-block reward  
+* coin symbol : CHN  
+* algorithm : Quark  
+* 5000 CHN required coins for masternode  
+* blocktime : 60 sec  
+* port : 15288, rpcport : 15289  
+* genesis date : 28th May, 2018  
+* block reward  
   (a) staking 25%, masternode 75% upto 630001 blocks   
   (b) staking 50%, masternode 50% from 630002 blocks   
   (c) staking 45%, masternode 45%, budget 10% from 670002 blocks   
+* application   
+  atomic swap, open market, gateway, multimedia, IOT
   
 ***
 ## Official Link  
