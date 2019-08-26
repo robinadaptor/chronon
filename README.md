@@ -60,8 +60,8 @@ sales market : [`https://robinadaptor.github.io/sales`](https://robinadaptor.git
 2018, 28th May, Chronon team (unknown) opened the blockchain.  
 2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
 2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
-2019, Jun, Renish Core version 1.1.0.0 is released
-2019, Aug, Renish Core version 1.2.0.0 is released  
+2019, Jun, Renish Core version 1.1.0.0 is released   
+2019, Aug, Renish Core version 1.2.0.0 is released   
 
 ***
 ## Donations 
