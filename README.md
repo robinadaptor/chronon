@@ -26,7 +26,7 @@ Chronon is a 100% pure POS system. And Chronon is operated by community.
 website : [`https://robinadaptor.github.io/chronon`](https://robinadaptor.github.io/chronon)      
 explorer : [`https://robinadaptor.github.io/chronon/explorer`](https://robinadaptor.github.io/chronon/explorer)   
 paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinadaptor.github.io/chronon/wallet)   
-sales market : [`https://robinadaptor.github.io/sales`](https://robinadaptor.github.io/sales)   
+swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
   
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
 
