@@ -67,7 +67,7 @@ exchanges : [`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index
 2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
 2019, Jun, Renish Core version 1.1.0.0 is released   
 2019, Aug, Renish Core version 1.2.0.0 is released   
-2019, Sep, Renish Core version 1.5.0.0 is released  
+2019, Sep, Renish Core version 1.5.1.0 is released  
 
 ***
 ## Donations 
