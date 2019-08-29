@@ -1,6 +1,6 @@
 ![](https://github.com/robinadaptor/logo/blob/master/chronon.png)   
 
-# Chronon
+# Chronon (zero protocol)
   
 Chronon is a 100% pure POS system. And Chronon is operated by community.
   
@@ -28,6 +28,10 @@ website : [`https://robinadaptor.github.io/chronon`](https://robinadaptor.github
 explorer : [`https://robinadaptor.github.io/chronon/explorer`](https://robinadaptor.github.io/chronon/explorer)   
 paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinadaptor.github.io/chronon/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
+coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
+exchanges : [`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index.php?pair=CHN/BTC)  
+            [`https://cratex.io/index.php?pair=CHN/LTC`](https://cratex.io/index.php?pair=CHN/LTC)  
+	    [`https://cratex.io/index.php?pair=CHN/BTCZ`](https://cratex.io/index.php?pair=CHN/BTCZ)  
   
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
 
@@ -63,6 +67,7 @@ swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.githu
 2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
 2019, Jun, Renish Core version 1.1.0.0 is released   
 2019, Aug, Renish Core version 1.2.0.0 is released   
+2019, Sep, Renish Core version 1.5.0.0 is released  
 
 ***
 ## Donations 
