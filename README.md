@@ -29,7 +29,9 @@ explorer : [`https://robinadaptor.github.io/chronon/explorer`](https://robinadap
 paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinadaptor.github.io/chronon/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
-exchanges : [`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index.php?pair=CHN/BTC)  
+
+* exchanges  
+[`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index.php?pair=CHN/BTC)  
             [`https://cratex.io/index.php?pair=CHN/LTC`](https://cratex.io/index.php?pair=CHN/LTC)  
 	    [`https://cratex.io/index.php?pair=CHN/BTCZ`](https://cratex.io/index.php?pair=CHN/BTCZ)  
   
