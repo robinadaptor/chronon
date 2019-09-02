@@ -32,8 +32,8 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
 
 * exchanges  
 [`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index.php?pair=CHN/BTC)  
-            [`https://cratex.io/index.php?pair=CHN/LTC`](https://cratex.io/index.php?pair=CHN/LTC)  
-	    [`https://cratex.io/index.php?pair=CHN/BTCZ`](https://cratex.io/index.php?pair=CHN/BTCZ)  
+[`https://cratex.io/index.php?pair=CHN/LTC`](https://cratex.io/index.php?pair=CHN/LTC)  
+[`https://cratex.io/index.php?pair=CHN/BTCZ`](https://cratex.io/index.php?pair=CHN/BTCZ)  
   
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
 
@@ -66,7 +66,11 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
   
 2018, 28th May, Chronon team (unknown) opened the blockchain.  
 2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
+<<<<<<< HEAD
 2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
+=======
+2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.
+>>>>>>> v1.5.1.0
 2019, Jun, Chronon Core version 1.1.0.0 is released   
 2019, Aug, Chronon Core version 1.2.0.0 is released   
 2019, Sep, Chronon Core version 1.5.1.0 is released  
