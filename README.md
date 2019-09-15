@@ -1,6 +1,6 @@
 ![](https://github.com/robinadaptor/logo/blob/master/chronon.png)   
 
-# Chronon (zero protocol)
+# Chronon
   
 Chronon is a 100% pure POS system. And Chronon is operated by community.
   
@@ -54,11 +54,12 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
 <tr><td>Phase 8</td><td align="center">32402-71601</td><td align="right">200 CHN</td><td align="center">70%</td><td align="center">30%</td><td align="center">0%</td></tr>
 <tr><td>Phase 9</td><td align="center">71602-630001</td><td align="right">100 CHN</td><td align="center">70%</td><td align="center">30%</td><td align="center">0%</td></tr>
 <tr><td>Phase 10</td><td align="center">630002-670001</td><td align="right">100 CHN</td><td align="center">50%</td><td align="center">50%</td><td align="center">0%</td></tr>
-<tr><td>Phase 11</td><td align="center">670002-675001</td><td align="right">50 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 12</td><td align="center">675002-680001</td><td align="right">25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 13</td><td align="center">680002-685001</td><td align="right">12.5 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 14</td><td align="center">685002-690001</td><td align="right">6.25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 15</td><td align="center">690002-infinite</td><td align="right">3.125 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 11</td><td align="center">670002-675000</td><td align="right">50 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 12</td><td align="center">670001-675001</td><td align="right">0 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 13</td><td align="center">675002-680001</td><td align="right">25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 14</td><td align="center">680002-685001</td><td align="right">12.5 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 15</td><td align="center">685002-690001</td><td align="right">6.25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 16</td><td align="center">690002-infinite</td><td align="right">3.125 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
 </table>
 
 ***
