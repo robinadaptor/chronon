@@ -56,10 +56,10 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
 <tr><td>Phase 10</td><td align="center">630002-670001</td><td align="right">100 CHN</td><td align="center">50%</td><td align="center">50%</td><td align="center">0%</td></tr>
 <tr><td>Phase 11</td><td align="center">670002-675000</td><td align="right">50 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
 <tr><td>Phase 12</td><td align="center">670001-675001</td><td align="right">0 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 13</td><td align="center">675002-680001</td><td align="right">25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 14</td><td align="center">680002-685001</td><td align="right">12.5 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 15</td><td align="center">685002-690001</td><td align="right">6.25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
-<tr><td>Phase 16</td><td align="center">690002-infinite</td><td align="right">3.125 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 13</td><td align="center">675002-680000</td><td align="right">25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 14</td><td align="center">680001-685000</td><td align="right">12.5 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 15</td><td align="center">685001-690000</td><td align="right">6.25 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
+<tr><td>Phase 16</td><td align="center">690001-infinite</td><td align="right">3.125 CHN</td><td align="center">45%</td><td align="center">45%</td><td align="center">10%</td></tr>
 </table>
 
 ***
