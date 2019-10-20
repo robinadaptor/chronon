@@ -28,7 +28,7 @@ website : [`https://robinadaptor.github.io/chronon`](https://robinadaptor.github
 explorer : [`https://robinadaptor.github.io/chronon/explorer`](https://robinadaptor.github.io/chronon/explorer)   
 paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinadaptor.github.io/chronon/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
-swaper : [`https://robinadaptor.github.io/swaper`](https://robinadaptor.github.io/swaper)  
+exchange : [`https://robinadaptor.github.io/swaper`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
 
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
