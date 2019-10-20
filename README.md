@@ -9,8 +9,8 @@ Chronon is a 100% pure POS system. And Chronon is operated by community.
   
 * asset symbol : CHN  
 * hashing algorithm : Quark  
-* consensus algorithm : (adaptive) proof of stake  
-* 5000 CHN required asset for masternode  
+* consensus algorithm : (adaptive) proof of stake   
+* 5000 CHN required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/masternode.md)   
 * blocktime : 60 sec  
 * port : 15288, rpcport : 15289  
 * genesis date : 28th May, 2018  
@@ -28,13 +28,9 @@ website : [`https://robinadaptor.github.io/chronon`](https://robinadaptor.github
 explorer : [`https://robinadaptor.github.io/chronon/explorer`](https://robinadaptor.github.io/chronon/explorer)   
 paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinadaptor.github.io/chronon/wallet)   
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
+swaper : [`https://robinadaptor.github.io/swaper`](https://robinadaptor.github.io/swaper)  
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
 
-* exchanges  
-[`https://cratex.io/index.php?pair=CHN/BTC`](https://cratex.io/index.php?pair=CHN/BTC)  
-[`https://cratex.io/index.php?pair=CHN/LTC`](https://cratex.io/index.php?pair=CHN/LTC)  
-[`https://cratex.io/index.php?pair=CHN/BTCZ`](https://cratex.io/index.php?pair=CHN/BTCZ)  
-  
 [`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
 
 ***
@@ -70,7 +66,7 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
 2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
 2019, Jun, Chronon Core version 1.1.0.0 is released   
 2019, Aug, Chronon Core version 1.2.0.0 is released   
-2019, Sep, Chronon Core version 1.5.1.0 is released  
+2019, Ocb, Chronon Core version 1.6.4.0 is released  
 
 ***
 ## Donations 
