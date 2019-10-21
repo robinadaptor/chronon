@@ -10,7 +10,7 @@ Chronon is a 100% pure POS system. And Chronon is operated by community.
 * asset symbol : CHN  
 * hashing algorithm : Quark  
 * consensus algorithm : (adaptive) proof of stake   
-* 5000 CHN required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/masternode.md)   
+* 5000 CHN required asset for masternode  [`node setting`](https://github.com/robinadaptor/help/blob/master/masternode.md)   
 * blocktime : 60 sec  
 * port : 15288, rpcport : 15289  
 * genesis date : 28th May, 2018  
