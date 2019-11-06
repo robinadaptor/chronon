@@ -63,10 +63,11 @@ coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Ch
   
 2018, 28th May, Chronon team (unknown) opened the blockchain.  
 2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
-2019, Jun, Now Chronon is officially redeveloped and operated by Robin Project.  
+2019, Jun, Chronon is officially redeveloped and operated by Robin Project.  
 2019, Jun, Chronon Core version 1.1.0.0 is released   
 2019, Aug, Chronon Core version 1.2.0.0 is released   
 2019, Ocb, Chronon Core version 1.6.4.0 is released  
+2019, Nov, Chronon is listed on Chamber Ex.  
 
 ***
 ## Donations 
