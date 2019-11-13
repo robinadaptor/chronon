@@ -31,7 +31,7 @@ swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.githu
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
 
-[`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5149230)         
+[`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
 
 ***
 ## Reward Policy  
