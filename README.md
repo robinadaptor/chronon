@@ -30,8 +30,9 @@ paper wallet : [`https://robinadaptor.github.io/chronon/wallet`](https://robinad
 swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)  
 coinlib : [`https://coinlib.io/coin/CHN/Chronon`](https://coinlib.io/coin/CHN/Chronon)  
-
-[`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)    
+somacher-invest : [`https://somacher-invest.ch/chronon-chn/`](https://somacher-invest.ch/chronon-chn/)    
+  
+[`wallet`](https://github.com/robinadaptor/chronon/releases) [`source`](https://github.com/robinadaptor/chronon) [`vote`](https://robinadaptor.github.io/chronon/vote) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)     
 
 ***
 ## Reward Policy  
