@@ -1,0 +1,8 @@
+/usr/bin/chronon-cli		--	gen_context(system_u:object_r:chronon_exec_t,s0)
+/usr/sbin/chronond		--	gen_context(system_u:object_r:chronon_exec_t,s0)
+/usr/lib(64)?/chronon/chronond		--	gen_context(system_u:object_r:chronon_exec_t,s0)
+
+/etc/chronon(/.*)?		gen_context(system_u:object_r:chronon_conf_t,s0)
+/var/lib/chronon(/.*)?		gen_context(system_u:object_r:chronon_var_lib_t,s0)
+
+(/var)?/run/chronond(/.*)?   gen_context(system_u:object_r:chronon_var_run_t,s0)

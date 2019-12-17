@@ -1,0 +1,81 @@
+policy_module(chronon, 1.100.1)
+
+########################################
+#
+# Declarations
+#
+
+type chronon_t;
+type chronon_exec_t;
+init_daemon_domain(chronon_t, chronon_exec_t)
+
+permissive chronon_t;
+
+type chronon_initrc_exec_t;
+init_script_file(chronon_initrc_exec_t)
+
+type chronon_conf_t;
+files_type(chronon_conf_t)
+
+type chronon_var_lib_t;
+files_type(chronon_var_lib_t)
+
+type chronon_var_run_t;
+files_type(chronon_var_run_t)
+
+type chronon_port_t;
+corenet_port(chronon_port_t)
+
+########################################
+#
+# chronon local policy
+#
+allow chronon_t self:process { fork };
+
+allow chronon_t self:fifo_file rw_fifo_file_perms;
+allow chronon_t self:unix_stream_socket create_stream_socket_perms;
+
+manage_dirs_pattern(chronon_t, chronon_conf_t, chronon_conf_t)
+manage_files_pattern(chronon_t, chronon_conf_t, chronon_conf_t)
+
+manage_dirs_pattern(chronon_t, chronon_var_lib_t, chronon_var_lib_t)
+manage_files_pattern(chronon_t, chronon_var_lib_t, chronon_var_lib_t)
+files_var_lib_filetrans(chronon_t, chronon_var_lib_t, { dir file })
+
+manage_dirs_pattern(chronon_t, chronon_var_run_t, chronon_var_run_t)
+manage_files_pattern(chronon_t, chronon_var_run_t, chronon_var_run_t)
+
+sysnet_dns_name_resolve(chronon_t)
+corenet_all_recvfrom_unlabeled(chronon_t)
+
+allow chronon_t self:tcp_socket create_stream_socket_perms;
+corenet_tcp_sendrecv_generic_if(chronon_t)
+corenet_tcp_sendrecv_generic_node(chronon_t)
+corenet_tcp_sendrecv_all_ports(chronon_t)
+corenet_tcp_bind_generic_node(chronon_t)
+
+gen_require(`
+    type chronon_port_t;
+')
+allow chronon_t chronon_port_t:tcp_socket name_bind;
+
+gen_require(`
+    type chronon_port_t;
+')
+allow chronon_t chronon_port_t:tcp_socket name_connect;
+
+domain_use_interactive_fds(chronon_t)
+
+files_read_etc_files(chronon_t)
+
+miscfiles_read_localization(chronon_t)
+
+sysnet_dns_name_resolve(chronon_t)
+
+allow chronon_t chronon_exec_t:file execute_no_trans;
+allow chronon_t self:process setsched;
+corecmd_exec_ls(chronon_t)
+corenet_tcp_connect_http_port(chronon_t)
+dev_read_urand(chronon_t)
+fs_getattr_xattr_fs(chronon_t)
+kernel_read_system_state(chronon_t)

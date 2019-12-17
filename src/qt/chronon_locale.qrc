@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/chronon_bg.qm</file>
+        <file alias="ca">locale/chronon_ca.qm</file>
+        <file alias="cs">locale/chronon_cs.qm</file>
+        <file alias="da">locale/chronon_da.qm</file>
+        <file alias="de">locale/chronon_de.qm</file>
+        <file alias="en">locale/chronon_en.qm</file>
+        <file alias="en_GB">locale/chronon_en_GB.qm</file>
+        <file alias="en_US">locale/chronon_en_US.qm</file>
+        <file alias="eo">locale/chronon_eo.qm</file>
+        <file alias="es">locale/chronon_es.qm</file>
+        <file alias="es_ES">locale/chronon_es_ES.qm</file>
+        <file alias="fi">locale/chronon_fi.qm</file>
+        <file alias="fr_FR">locale/chronon_fr_FR.qm</file>
+        <file alias="hi_IN">locale/chronon_hi_IN.qm</file>
+        <file alias="hr">locale/chronon_hr.qm</file>
+        <file alias="hr_HR">locale/chronon_hr_HR.qm</file>
+        <file alias="it">locale/chronon_it.qm</file>
+        <file alias="ja">locale/chronon_ja.qm</file>
+        <file alias="ko_KR">locale/chronon_ko_KR.qm</file>
+        <file alias="lt_LT">locale/chronon_lt_LT.qm</file>
+        <file alias="nl">locale/chronon_nl.qm</file>
+        <file alias="pl">locale/chronon_pl.qm</file>
+        <file alias="pt">locale/chronon_pt.qm</file>
+        <file alias="pt_BR">locale/chronon_pt_BR.qm</file>
+        <file alias="ro_RO">locale/chronon_ro_RO.qm</file>
+        <file alias="ru">locale/chronon_ru.qm</file>
+        <file alias="sk">locale/chronon_sk.qm</file>
+        <file alias="sv">locale/chronon_sv.qm</file>
+        <file alias="tr">locale/chronon_tr.qm</file>
+        <file alias="uk">locale/chronon_uk.qm</file>
+        <file alias="vi">locale/chronon_vi.qm</file>
+        <file alias="zh_CN">locale/chronon_zh_CN.qm</file>
+        <file alias="zh_TW">locale/chronon_zh_TW.qm</file>
+    </qresource>
+</RCC>

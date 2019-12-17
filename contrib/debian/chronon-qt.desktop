@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.6.4
+Name=Chronon Core
+Comment=Chronon P2P Cryptocurrency
+Comment[fr]=Chronon, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Chronon, eşten eşe kriptografik sanal para birimi
+Exec=chronon-qt %u
+Terminal=false
+Type=Application
+Icon=chronon128
+MimeType=x-scheme-handler/chronon;
+Categories=Office;Finance;
+StartupWMClass=chronon-qt

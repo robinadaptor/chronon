@@ -1,0 +1,68 @@
+Source: chronon
+Section: utils
+Priority: optional
+Maintainer: Robin Project <robin.adaptor@gmail.com> 
+Uploaders: Robin Project <robin.adaptor@gmail.com> 
+Build-Depends: debhelper,
+ devscripts,
+ automake,
+ libtool,
+ bash-completion,
+ libdb4.8++-dev,
+ libssl1.0-dev | libssl-dev,
+ pkg-config,
+ libevent-dev,
+ libgmp-dev,
+ libboost-system1.48-dev | libboost-system-dev (>> 1.47),
+ libboost-filesystem1.48-dev | libboost-filesystem-dev (>> 1.47),
+ libboost-program-options1.48-dev | libboost-program-options-dev (>> 1.47),
+ libboost-thread1.48-dev | libboost-thread-dev (>> 1.47),
+ libboost-test1.48-dev | libboost-test-dev (>> 1.47),
+ libboost-chrono1.48-dev | libboost-chrono-dev (>> 1.47),
+ libminiupnpc8-dev | libminiupnpc-dev,
+ xvfb,
+ qtbase5-dev, qttools5-dev-tools, qttools5-dev,
+ libqrencode-dev,
+ libprotobuf-dev, protobuf-compiler,
+ python,
+ libzmq3-dev,
+ dh-systemd
+Standards-Version: 3.9.2
+Homepage:https://robinadaptor.github.io/chronon/
+Vcs-Git: git://github.com/robinadaptor/chronon
+Vcs-Browser: http://github.com/robinadaptor/chronon
+
+Package: chronond
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Chronon Coin (CHN) is an open-source Proof-of-Stake
+ digital crypto currency for fast (using SwiftX), private (Zerocoin
+ protocol) and secure microtransactions. Our main goal is to create
+ a decentralized fully secure and anonymous network to run
+ applications which do not rely on any central body control. By
+ having a distributed system, thousands of users will be responsible
+ for maintaining the application and data so that there is no single
+ point of failure.
+ .
+ Full transaction history is stored locally at each client. This
+ requires 2+ GB of space, slowly growing.
+ .
+ This package provides the daemon, chronond, and the CLI tool
+ chronon-cli to interact with the daemon.
+
+Package: chronon-qt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Chronon Coin (CHN) is an open-source Proof-of-Stake
+ digital crypto currency for fast (using SwiftX), private (Zerocoin
+ protocol) and secure microtransactions. Our main goal is to create
+ a decentralized fully secure and anonymous network to run
+ applications which do not rely on any central body control. By
+ having a distributed system, thousands of users will be responsible
+ for maintaining the application and data so that there is no single
+ point of failure.
+ .
+ Full transaction history is stored locally at each client.  This
+ requires 2+ GB of space, slowly growing.
+ .
+ This package provides Chronon-Qt, a GUI for Chronon based on Qt.

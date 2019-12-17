@@ -1,0 +1,6 @@
+usr/local/bin/chronon-qt usr/bin
+share/pixmaps/chronon16.xpm usr/share/pixmaps
+share/pixmaps/chronon32.xpm usr/share/pixmaps
+share/pixmaps/chronon128.xpm usr/share/pixmaps
+debian/chronon-qt.desktop usr/share/applications
+debian/chronon-qt.protocol usr/share/kde4/services/

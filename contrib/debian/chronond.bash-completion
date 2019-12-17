@@ -1,0 +1,2 @@
+contrib/chronond.bash-completion chronond
+contrib/chronon-cli.bash-completion chronon-cli
