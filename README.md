@@ -70,6 +70,11 @@ somacher-invest : [`https://somacher-invest.ch/chronon-chn/`](https://somacher-i
 2019, Nov, Chronon is listed on Chamber Ex.  
 
 ***
+## Contribution   
+
+This system is `the first POS cryptocurrency to realize transparent transaction policy among Dash/PIVX forking systems`. So there is no zero protocol, dark transfer procee. This system is suitable for international annti-money laundering (AML) policies. [`policy`](https://github.com/robinadaptor/help/blob/master/systempolicy.md)    
+
+***
 ## Donations 
   
 Robin project manages and develops cryptocurrency coins. For many community members, Robin project provides more quality applications and leads the blockchain culture soundly. All development is done as a donation, and when a certain donation is completed, we will gradually develop applications for coin holders. Thank you.  
